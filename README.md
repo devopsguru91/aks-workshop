@@ -42,10 +42,10 @@ In this workshop, you'll go through tasks to deploy a multicontainer application
 Please check the <a href="./content/labs/setup/00.setup.md">setup instructions and  pre-requisites for Hands-on Labs</a>.  
 
 ### Hands-on Labs   
-* [Day 0 - Understanding Containers and Docker](https://github.com/carlosalexei/aks-workshop/blob/main/content/labs/00.docker.md) (optional)
+* [Day 0 - Understanding Containers and Docker](https://github.com/devopsguru91/aks-workshop/blob/main/content/labs/00.docker.md) (optional)
 
-* [Day 1 - Deploying applications to Azure Kubernetes Service](https://github.com/carlosalexei/aks-workshop/blob/main/content/labs/01.basic-aks.md)
+* [Day 1 - Deploying applications to Azure Kubernetes Service](https://github.com/devopsguru91/aks-workshop/blob/main/content/labs/01.basic-aks.md)
 
-* [Day 2 - Managing AKS](https://github.com/carlosalexei/aks-workshop/blob/main/content/labs/02.manage-aks.md) 
+* [Day 2 - Managing AKS](https://github.com/devopsguru91/aks-workshop/blob/main/content/labs/02.manage-aks.md) 
 
-* [Day 3 - Scale and DevOps](https://github.com/carlosalexei/aks-workshop/blob/main/content/labs/03.scale-aks.md)
+* [Day 3 - Scale and DevOps](https://github.com/devopsguru91/aks-workshop/blob/main/content/labs/03.scale-aks.md)
